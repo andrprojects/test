@@ -1,1 +1,1 @@
-This is empty test repository
+This is empty test repository.
